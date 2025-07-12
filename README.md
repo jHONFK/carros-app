@@ -34,7 +34,7 @@
 
 ---
 
-## 📁 Estrutura de pastas
+## Estrutura de pastas
 
 ```
 carros-app/
